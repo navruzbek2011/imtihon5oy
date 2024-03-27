@@ -1,0 +1,65 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: linear-gradient(rgb(149, 149, 255), purple);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.button {
+  width: 130px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: white;
+  border: 1px solid transparent;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.lorem_div {
+  width: 1000px;
+  height: 250px;
+  background-color: white;
+  border-radius: 5px;
+  position: relative;
+  display: none;
+  opacity: 0.2;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.nnwqhibdve {
+  position: relative;
+}
+
+.lorem_div_text {
+  width: 1000px;
+  top: -200px;
+  position: absolute;
+  font-size: 20px;
+  padding: 20px;
+  font-weight: 700;
+  display: none;
+}
+
+.lorem_div_text2 {
+  width: 1000px;
+  top: -120px;
+  position: absolute;
+  padding: 20px;
+  display: none;
+}
+
+.bi {
+  top: -230px;
+  left: 950px;
+  position: absolute;
+  font-size: 30px;
+  display: none;
+}/*# sourceMappingURL=main.css.map */
